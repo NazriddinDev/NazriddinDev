@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NazriddinDev
-- 👀 I’m interested in desktop programming
-- 🌱 I’m currently learning .NET7
+- 👀 I’m interested in desktop and web programming
+- 🌱 I’m currently learning .NET8
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
